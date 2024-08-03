@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Shop Linker - eCommerce Application Built with MERN Stack",
+    "imageSrc": "projects/shop.jpeg.png",
+    "description": " Developed Shop Linker, a feature-rich eCommerce application designed to provide a seamless shopping experience from browsing to checkout. Built using the MERN stack (MongoDB, Express.js, React, Node.js), this application showcases my ability to create a robust, scalable, and interactive online shopping platform.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "React.js",
+      "JavaScript",
+      "Express",
+      "Node.js",
+      "Mongo.DB",
+      "JSON Web Token(JWT)"
+    ],
+    "demo": "https://jasmeetsingh-shoplinker.onrender.com/",
+    "source": "https://github.com/jasmeetsingh23/Shop-Linker---Online-App"
+  },
+
+  {
+    "title": "Real-Time Chat Application with MERN Stack",
+    "imageSrc": "projects/chat.jpeg.png",
+    "description": "Developed a robust real-time chat application utilizing the MERN stack (MongoDB, Express.js, React, Node.js) to deliver a seamless and interactive user experience. This project integrates WebSocket technology for instant messaging and dynamic updates, allowing users to engage in real-time conversations with minimal latency.",
+    "skills": [
+      "express.js",
+      "Node.js",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Mongo.DB",
+      "Socket.io",
+      "React.js"
+    ],
+    "demo": "https://jasmeetsingh-chatapp.onrender.com/",
+    "source": "https://github.com/jasmeetsingh23/MERN-CHAT-APP"
+  },
+  {
+    "title": "Figma Clone",
+    "imageSrc": "projects/f.png",
+    "description": "A Figma clone is a design tool that replicates the core features and functionality of Figma, allowing users to create and collaborate on user interface designs. It typically offers vector graphics editing, prototyping, and real-time collaboration, aiming to provide a similar user experience to Figma.",
+    "skills": [
+      "React",
+      "TypeScript",
+      "Next.js",
+      "Fabric.js",
+      "Shadcn",
+      "Tailwind CSS"
+    ],
+    "demo": "https://figma-clone-ashen-one.vercel.app/",
+    "source": "https://github.com/jasmeetsingh23/figma_clone"
+  }
+]
